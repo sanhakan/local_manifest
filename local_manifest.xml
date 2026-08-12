@@ -8,4 +8,5 @@
         <project path="vendor/xiaomi/onyx" name="crdroidandroid/proprietary_vendor_xiaomi_onyx" remote="rem" revision="16.0" clone-depth="1" />
         <project name="crdroidandroid/android_packages_apps_LunarisDolby" path="packages/apps/LunarisDolby" remote="rem" revision="16.0" clone-depth="1" />
         <project name="crdroidandroid/android_vendor_bcr" path="vendor/bcr" remote="rem" revision="16.0" clone-depth="1" />
+        <project name="crdroidandroid/android_packages_apps_NotGameTurbo" path="packages/apps/NotGameTurbo" remote="rem" revision="16.0" clone-depth="1" />
 </manifest>
